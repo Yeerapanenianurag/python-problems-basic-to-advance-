@@ -3,9 +3,9 @@
 Welcome to my **300 Python Problems Challenge**!  
 The goal of this repository is to sharpen my problem-solving and coding skills by solving Python problems across three categories:  
 
-- 🟢 **Easy**  
+- 🟢 **Begineer**  
 - 🟡 **Intermediate**  
-- 🔴 **Advanced**
+- 🔴 **Advanced*
 
 ---
 
